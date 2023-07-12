@@ -12,7 +12,7 @@ This example is a small [Deno](https://deno.land/) webserver.
 ## 💁‍♀️ How to use
 
 - [Install Deno](https://deno.land/)
-- Run server `deno --allow-net --allow-env src/index.ts`
+- Run server `deno run --allow-net --allow-read --allow-env src/server/entry.mjs`
 
 ## 📝 Notes
 
